@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_temelkonular", "01_temelkonular\01_temelkonular.csproj", "{9CD9F42A-8DBA-4A37-9A77-7BC4ABDAC249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_degiskenler", "02_degiskenler\02_degiskenler.csproj", "{DF874C69-8ED7-4CDB-A764-AC8ECD9F0D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD9F42A-8DBA-4A37-9A77-7BC4ABDAC249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD9F42A-8DBA-4A37-9A77-7BC4ABDAC249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD9F42A-8DBA-4A37-9A77-7BC4ABDAC249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD9F42A-8DBA-4A37-9A77-7BC4ABDAC249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF874C69-8ED7-4CDB-A764-AC8ECD9F0D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF874C69-8ED7-4CDB-A764-AC8ECD9F0D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF874C69-8ED7-4CDB-A764-AC8ECD9F0D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF874C69-8ED7-4CDB-A764-AC8ECD9F0D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE24B8A-1C8C-415F-A6AE-83D265E704CC}
+	EndGlobalSection
+EndGlobal
